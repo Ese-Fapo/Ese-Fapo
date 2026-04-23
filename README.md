@@ -1,4 +1,17 @@
-Olá, eu sou Ese Fapohnda — desenvolvedor React apaixonado por criar aplicações web rápidas, modernas e intuitivas.
+# 💫 Hi 👋, I'm Imran Alam
+**Front-End Developer || React Developer || **
+
+Email Me 👉 ✉️ **esefapohunda@gmail.com** para colaboração/projetos ou qualquer outra coisa. 😊😊
+
+- 🔭 **Atualmente estou trabalhando em:** Uma plataforma full-stack de criação de sites para pequenas empresas (React + Node.js)
+- 🌱 **Atualmente estou aprendendo** Docker (containerização)
+- 👯 **Estou procurando colaborar em:** Projetos open-source de componentes React / design systems
+- 🤔 **Estou procurando ajuda com:** Padrões avançados de backend (microservices, caching)
+- 💬 **Pergunte-me sobre:** React.js e desenvolvimento frontend moderno
+- 📫 **Como me encontrar:** esefapohunda@gmail.com
+- 😄 **Pronomes:** Ela
+- ⚡ **Curiosidade:** Comecei do zero e hoje desenvolvo projetos reais para clientes
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/front_end_dev_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ese Fapohunda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esefapohunda@gmail.com) 
 
